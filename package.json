@@ -1,0 +1,19 @@
+{
+  "name": "yy-normalize",
+  "version": "1.0.0",
+  "description": "阳阳路径规范化",
+  "main": "yy-normalize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["normalize","yy","YangyangU"],
+  "author": "YangyangU",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YangyangU/yy-normalize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YangyangU/yy-normalize/issues"
+  }
+}
